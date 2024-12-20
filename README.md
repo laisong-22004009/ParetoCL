@@ -15,6 +15,6 @@ In this paper, we propose a simple yet efficient hypernet-based continual learni
 
 The overview of the proposed Pareto Continual Learning.
 <div align="center">
-  <img src="resources/Overview.png" width=80%/>
+  <img src="resources/Overview.png"
   " width=80%/>
 </div>
